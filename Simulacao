@@ -1,0 +1,626 @@
+Meu id: p1.botman
+Minha mão: [ 4♠ 10♣ 4♦ K♣ 4♥ K♦ 5♣ 7♥ 9♠ A♠ 10♦ ]
+Antes de criar jogo, endereço e: 0x55571463d4b0
+E o endereco dele e: 0x7ffdf2de92b0
+LOGO EMBAIXO DA CHAMADA DE CRIA JOGOS
+Lixo_inicio: J♣
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: MELD_NEW [ 2♠ 3♠ 4♠ ]
+carta do oponente 2♠
+carta do oponente 3♠
+carta do oponente 4♠
+tamanho da mao: 8
+COMANDO: DISCARD K♥
+COMANDO: p1.botman
+tam_hand antes de puxar: 12
+botman puxou a carta 10♥
+tam_myhand depois de puxar = 12
+num_jogos = 0
+DISCARD A♠
+ A♠ botman descartou: A♠
+botman descartou: A♠
+tam_myhand depois de descartar = 11
+cartas da mao depois de descartar:
+
+4♠ 4♦ 4♥ 5♣ 7♥ 9♠ 10♣ 10♦ 10♥ K♦ K♣  
+
+Copiou A♠
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD Q♦
+COMANDO: p1.botman
+tam_hand antes de puxar: 12
+botman puxou a carta K♠
+tam_myhand depois de puxar = 12
+num_jogos = 0
+DISCARD K♠
+ K♠ botman descartou: K♠
+botman descartou: K♠
+tam_myhand depois de descartar = 11
+cartas da mao depois de descartar:
+
+4♠ 4♦ 4♥ 5♣ 7♥ 9♠ 10♣ 10♦ 10♥ K♦ K♣  
+
+Copiou K♠
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD 10♠
+COMANDO: p1.botman
+tam_hand antes de puxar: 12
+botman puxou a carta 5♠
+tam_myhand depois de puxar = 12
+num_jogos = 0
+DISCARD K♦
+ K♦ botman descartou: K♦
+botman descartou: K♦
+tam_myhand depois de descartar = 11
+cartas da mao depois de descartar:
+
+4♠ 4♦ 4♥ 5♣ 5♠ 7♥ 9♠ 10♦ 10♥ 10♣ K♣  
+
+Copiou K♦
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD 10♥
+COMANDO: p1.botman
+tam_hand antes de puxar: 12
+botman puxou a carta 6♥
+tam_myhand depois de puxar = 12
+num_jogos = 0
+DISCARD K♣
+ K♣ botman descartou: K♣
+botman descartou: K♣
+tam_myhand depois de descartar = 11
+cartas da mao depois de descartar:
+
+4♠ 4♦ 4♥ 5♣ 5♠ 6♥ 7♥ 9♠ 10♥ 10♣ 10♦  
+
+Copiou K♣
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD Q♦
+COMANDO: p1.botman
+tam_hand antes de puxar: 12
+botman puxou a carta 3♣
+tam_myhand depois de puxar = 12
+num_jogos = 0
+DISCARD 10♥
+ 10♥ botman descartou: 10♥
+botman descartou: 10♥
+tam_myhand depois de descartar = 11
+cartas da mao depois de descartar:
+
+3♣ 4♦ 4♥ 4♠ 5♠ 5♣ 6♥ 7♥ 9♠ 10♣ 10♦  
+
+Copiou 10♥
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD 10♠
+COMANDO: p1.botman
+tam_hand antes de puxar: 12
+botman puxou a carta K♠
+tam_myhand depois de puxar = 12
+num_jogos = 0
+DISCARD K♠
+ K♠ botman descartou: K♠
+botman descartou: K♠
+tam_myhand depois de descartar = 11
+cartas da mao depois de descartar:
+
+3♣ 4♦ 4♥ 4♠ 5♠ 5♣ 6♥ 7♥ 9♠ 10♣ 10♦  
+
+Copiou K♠
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD 9♣
+COMANDO: p1.botman
+tam_hand antes de puxar: 12
+botman puxou a carta 8♣
+tam_myhand depois de puxar = 12
+num_jogos = 0
+DISCARD 10♦
+ 10♦ botman descartou: 10♦
+botman descartou: 10♦
+tam_myhand depois de descartar = 11
+cartas da mao depois de descartar:
+
+3♣ 4♦ 4♥ 4♠ 5♠ 5♣ 6♥ 7♥ 8♣ 9♠ 10♣  
+
+Copiou 10♦
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD A♦
+COMANDO: p1.botman
+tam_hand antes de puxar: 12
+botman puxou a carta 6♠
+tam_myhand depois de puxar = 12
+num_jogos = 1
+jogo formado:
+
+4♠ 5♠ 6♠ 
+
+DISCARD 9♠
+ 9♠ botman descartou: 9♠
+botman descartou: 9♠
+tam_myhand depois de descartar = 8
+cartas da mao depois de descartar:
+
+3♣ 4♦ 4♥ 5♣ 6♥ 7♥ 8♣ 10♣  
+
+Copiou 9♠
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD 9♦
+COMANDO: p1.botman
+tam_hand antes de puxar: 9
+botman puxou a carta 10♦
+tam_myhand depois de puxar = 9
+Tentei aumentar um jogo
+num_jogos = 1
+jogo formado:
+
+4♠ 5♠ 6♠ 
+
+DISCARD 10♦
+ 10♦ botman descartou: 10♦
+botman descartou: 10♦
+tam_myhand depois de descartar = 8
+cartas da mao depois de descartar:
+
+3♣ 4♦ 4♥ 5♣ 6♥ 7♥ 8♣ 10♣  
+
+Copiou 10♦
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: MELD_NEW [ 4♦ 2♦ 6♦ 7♦ ]
+carta do oponente 4♦
+carta do oponente 2♦
+carta do oponente 6♦
+carta do oponente 7♦
+tamanho da mao: 4
+COMANDO: DISCARD 8♠
+COMANDO: p1.botman
+tam_hand antes de puxar: 9
+botman puxou a carta Q♥
+tam_myhand depois de puxar = 9
+Tentei aumentar um jogo
+num_jogos = 1
+jogo formado:
+
+4♠ 5♠ 6♠ 
+
+DISCARD Q♥
+ Q♥ botman descartou: Q♥
+botman descartou: Q♥
+tam_myhand depois de descartar = 8
+cartas da mao depois de descartar:
+
+3♣ 4♦ 4♥ 5♣ 6♥ 7♥ 8♣ 10♣  
+
+Copiou Q♥
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD J♠
+COMANDO: p1.botman
+tam_hand antes de puxar: 9
+botman puxou a carta 3♥
+tam_myhand depois de puxar = 9
+Tentei aumentar um jogo
+num_jogos = 1
+jogo formado:
+
+4♠ 5♠ 6♠ 
+
+DISCARD 4♦
+ 4♦ botman descartou: 4♦
+botman descartou: 4♦
+tam_myhand depois de descartar = 8
+cartas da mao depois de descartar:
+
+3♣ 3♥ 4♥ 5♣ 6♥ 7♥ 8♣ 10♣  
+
+Copiou 4♦
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD 7♣
+COMANDO: p1.botman
+tam_hand antes de puxar: 9
+botman puxou a carta 5♣
+tam_myhand depois de puxar = 9
+Tentei aumentar um jogo
+num_jogos = 1
+jogo formado:
+
+4♠ 5♠ 6♠ 
+
+DISCARD 5♣
+ 5♣ botman descartou: 5♣
+botman descartou: 5♣
+tam_myhand depois de descartar = 8
+cartas da mao depois de descartar:
+
+3♣ 3♥ 4♥ 5♣ 6♥ 7♥ 8♣ 10♣  
+
+Copiou 5♣
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD 6♥
+COMANDO: p1.botman
+tam_hand antes de puxar: 9
+botman puxou a carta 8♣
+tam_myhand depois de puxar = 9
+Tentei aumentar um jogo
+num_jogos = 1
+jogo formado:
+
+4♠ 5♠ 6♠ 
+
+DISCARD 8♣
+ 8♣ botman descartou: 8♣
+botman descartou: 8♣
+tam_myhand depois de descartar = 8
+cartas da mao depois de descartar:
+
+3♣ 3♥ 4♥ 5♣ 6♥ 7♥ 8♣ 10♣  
+
+Copiou 8♣
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD Q♠
+COMANDO: p1.botman
+tam_hand antes de puxar: 9
+botman puxou a carta J♦
+tam_myhand depois de puxar = 9
+Tentei aumentar um jogo
+num_jogos = 1
+jogo formado:
+
+4♠ 5♠ 6♠ 
+
+DISCARD J♦
+ J♦ botman descartou: J♦
+botman descartou: J♦
+tam_myhand depois de descartar = 8
+cartas da mao depois de descartar:
+
+3♣ 3♥ 4♥ 5♣ 6♥ 7♥ 8♣ 10♣  
+
+Copiou J♦
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD 5♥
+COMANDO: p1.botman
+tam_hand antes de puxar: 9
+botman puxou a carta 7♦
+tam_myhand depois de puxar = 9
+Tentei aumentar um jogo
+num_jogos = 1
+jogo formado:
+
+4♠ 5♠ 6♠ 
+
+DISCARD 10♣
+ 10♣ botman descartou: 10♣
+botman descartou: 10♣
+tam_myhand depois de descartar = 8
+cartas da mao depois de descartar:
+
+3♣ 3♥ 4♥ 5♣ 6♥ 7♥ 7♦ 8♣  
+
+Copiou 10♣
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD 7♠
+COMANDO: p1.botman
+tam_hand antes de puxar: 9
+botman puxou a carta 4♣
+tam_myhand depois de puxar = 9
+Tentei aumentar um jogo
+num_jogos = 2
+jogo formado:
+
+3♣ 4♣ 5♣ 
+
+DISCARD 8♣
+ 8♣ botman descartou: 8♣
+botman descartou: 8♣
+tam_myhand depois de descartar = 5
+cartas da mao depois de descartar:
+
+3♥ 4♥ 6♥ 7♦ 7♥  
+
+Copiou 8♣
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: MELD_JOIN 0 [ 2♠ ]
+COMANDO: DISCARD 4♣
+COMANDO: p1.botman
+tam_hand antes de puxar: 6
+botman puxou a carta 2♣
+tam_myhand depois de puxar = 6
+Tentei aumentar um jogo
+num_jogos = 2
+jogo formado:
+
+2♣ 3♣ 4♣ 5♣ 
+
+DISCARD 7♦
+ 7♦ botman descartou: 7♦
+botman descartou: 7♦
+tam_myhand depois de descartar = 4
+cartas da mao depois de descartar:
+
+3♥ 4♥ 6♥ 7♥  
+
+Copiou 7♦
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD 6♦
+COMANDO: p1.botman
+tam_hand antes de puxar: 5
+botman puxou a carta 5♦
+tam_myhand depois de puxar = 5
+Tentei aumentar um jogo
+num_jogos = 2
+jogo formado:
+
+2♣ 3♣ 4♣ 5♣ 
+
+DISCARD 7♥
+ 7♥ botman descartou: 7♥
+botman descartou: 7♥
+tam_myhand depois de descartar = 4
+cartas da mao depois de descartar:
+
+3♥ 4♥ 5♦ 6♥  
+
+Copiou 7♥
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD 2♥
+COMANDO: p1.botman
+tam_hand antes de puxar: 5
+botman puxou a carta 9♣
+tam_myhand depois de puxar = 5
+Tentei aumentar um jogo
+num_jogos = 2
+jogo formado:
+
+2♣ 3♣ 4♣ 5♣ 
+
+DISCARD 9♣
+ 9♣ botman descartou: 9♣
+botman descartou: 9♣
+tam_myhand depois de descartar = 4
+cartas da mao depois de descartar:
+
+3♥ 4♥ 5♦ 6♥  
+
+Copiou 9♣
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD 6♠
+COMANDO: p1.botman
+tam_hand antes de puxar: 5
+botman puxou a carta K♣
+tam_myhand depois de puxar = 5
+Tentei aumentar um jogo
+num_jogos = 2
+jogo formado:
+
+2♣ 3♣ 4♣ 5♣ 
+
+DISCARD K♣
+ K♣ botman descartou: K♣
+botman descartou: K♣
+tam_myhand depois de descartar = 4
+cartas da mao depois de descartar:
+
+3♥ 4♥ 5♦ 6♥  
+
+Copiou K♣
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD J♣
+COMANDO: p1.botman
+tam_hand antes de puxar: 5
+botman puxou a carta 3♥
+tam_myhand depois de puxar = 5
+Tentei aumentar um jogo
+num_jogos = 2
+jogo formado:
+
+2♣ 3♣ 4♣ 5♣ 
+
+DISCARD 3♥
+ 3♥ botman descartou: 3♥
+botman descartou: 3♥
+tam_myhand depois de descartar = 4
+cartas da mao depois de descartar:
+
+3♥ 4♥ 5♦ 6♥  
+
+Copiou 3♥
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: MELD_JOIN 1 [ 5♦ ]
+COMANDO: DISCARD 2♥
+COMANDO: p1.botman
+tam_hand antes de puxar: 5
+botman puxou a carta 9♠
+tam_myhand depois de puxar = 5
+Tentei aumentar um jogo
+num_jogos = 2
+jogo formado:
+
+2♣ 3♣ 4♣ 5♣ 
+
+DISCARD 9♠
+ 9♠ botman descartou: 9♠
+botman descartou: 9♠
+tam_myhand depois de descartar = 4
+cartas da mao depois de descartar:
+
+3♥ 4♥ 5♦ 6♥  
+
+Copiou 9♠
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD 7♣
+COMANDO: p1.botman
+tam_hand antes de puxar: 5
+botman puxou a carta 4♥
+tam_myhand depois de puxar = 5
+Tentei aumentar um jogo
+num_jogos = 2
+jogo formado:
+
+2♣ 3♣ 4♣ 5♣ 
+
+DISCARD 4♥
+ 4♥ botman descartou: 4♥
+botman descartou: 4♥
+tam_myhand depois de descartar = 4
+cartas da mao depois de descartar:
+
+3♥ 4♥ 5♦ 6♥  
+
+Copiou 4♥
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD 8♠
+COMANDO: p1.botman
+tam_hand antes de puxar: 5
+botman puxou a carta 9♦
+tam_myhand depois de puxar = 5
+Tentei aumentar um jogo
+num_jogos = 2
+jogo formado:
+
+2♣ 3♣ 4♣ 5♣ 
+
+DISCARD 9♦
+ 9♦ botman descartou: 9♦
+botman descartou: 9♦
+tam_myhand depois de descartar = 4
+cartas da mao depois de descartar:
+
+3♥ 4♥ 5♦ 6♥  
+
+Copiou 9♦
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD A♣
+COMANDO: p1.botman
+tam_hand antes de puxar: 5
+botman puxou a carta 6♣
+tam_myhand depois de puxar = 5
+Tentei aumentar um jogo
+num_jogos = 2
+jogo formado:
+
+2♣ 3♣ 4♣ 5♣ 
+
+DISCARD 6♣
+ 6♣ botman descartou: 6♣
+botman descartou: 6♣
+tam_myhand depois de descartar = 4
+cartas da mao depois de descartar:
+
+3♥ 4♥ 5♦ 6♥  
+
+Copiou 6♣
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD Q♠
+COMANDO: p1.botman
+tam_hand antes de puxar: 5
+botman puxou a carta K♥
+tam_myhand depois de puxar = 5
+Tentei aumentar um jogo
+num_jogos = 2
+jogo formado:
+
+2♣ 3♣ 4♣ 5♣ 
+
+DISCARD K♥
+ K♥ botman descartou: K♥
+botman descartou: K♥
+tam_myhand depois de descartar = 4
+cartas da mao depois de descartar:
+
+3♥ 4♥ 5♦ 6♥  
+
+Copiou K♥
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD A♥
+COMANDO: p1.botman
+tam_hand antes de puxar: 5
+botman puxou a carta 8♥
+tam_myhand depois de puxar = 5
+Tentei aumentar um jogo
+num_jogos = 2
+jogo formado:
+
+2♣ 3♣ 4♣ 5♣ 
+
+DISCARD 8♥
+ 8♥ botman descartou: 8♥
+botman descartou: 8♥
+tam_myhand depois de descartar = 4
+cartas da mao depois de descartar:
+
+3♥ 4♥ 5♦ 6♥  
+
+Copiou 8♥
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD Q♣
+COMANDO: p1.botman
+tam_hand antes de puxar: 5
+botman puxou a carta 9♥
+tam_myhand depois de puxar = 5
+Tentei aumentar um jogo
+num_jogos = 2
+jogo formado:
+
+2♣ 3♣ 4♣ 5♣ 
+
+DISCARD 9♥
+ 9♥ botman descartou: 9♥
+botman descartou: 9♥
+tam_myhand depois de descartar = 4
+cartas da mao depois de descartar:
+
+3♥ 4♥ 5♦ 6♥  
+
+Copiou 9♥
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: DISCARD 10♣
+COMANDO: p1.botman
+tam_hand antes de puxar: 5
+botman puxou a carta Q♣
+tam_myhand depois de puxar = 5
+Tentei aumentar um jogo
+num_jogos = 2
+jogo formado:
+
+2♣ 3♣ 4♣ 5♣ 
+
+DISCARD Q♣
+ Q♣ botman descartou: Q♣
+botman descartou: Q♣
+tam_myhand depois de descartar = 4
+cartas da mao depois de descartar:
+
+3♥ 4♥ 5♦ 6♥  
+
+Copiou Q♣
+COMANDO: p2.andre
+COMANDO: GET_STOCK
+COMANDO: MELD_JOIN 1 [ 3♦ ]
+COMANDO: MELD_JOIN 1 [ 2♦ ]
+COMANDO: DISCARD 2♣
